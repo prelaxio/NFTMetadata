@@ -1,0 +1,52 @@
+{
+    "name": "Septer #3888",
+    "description": "The Septer Warrior from the South of Continent",
+    "image": "https://app.prelax.io/static/media/c3-l6.4bf3ca28.gif",
+    "attributes": [
+        {
+            "trait_type": "Token Id",
+            "value": "3888"
+        },
+        {
+            "trait_type": "Name",
+            "value": "Macey Septer"
+        },
+        {
+            "trait_type": "Class",
+            "value": "SEPTER"
+        },
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Exp",
+            "value": 1200
+        },
+        {
+            "trait_type": "Exp Max",
+            "value": 1200
+        },
+        {
+            "trait_type": "Level",
+            "value": 6
+        },
+        {
+            "trait_type": "HealthyScore",
+            "value": 1200
+        },
+        {
+            "trait_type": "Attack",
+            "value": 360
+        },
+        {
+            "trait_type": "Defend",
+            "value": 240
+        },
+        {
+            "display_type": "date", 
+            "trait_type": "birthday", 
+            "value": 1633642158
+        }
+    ]
+}
